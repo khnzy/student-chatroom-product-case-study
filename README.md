@@ -17,6 +17,7 @@ Enable seamless, contextual peer collaboration within the learning platform whil
 
 ## Product Mockup
 
+<img src="./mockup.png" width="800" />
 
 
 
