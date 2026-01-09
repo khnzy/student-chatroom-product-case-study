@@ -150,16 +150,7 @@ From the platform’s perspective, discussions that once happened externally are
 - **Privacy & Misuse Concerns**  
   → Classroom-only access, blocking/reporting options, audit logs
 
----
 
-## Skills Demonstrated
-
-- Product discovery & problem framing  
-- Hypothesis-driven development  
-- Metric definition & experimentation  
-- MVP scoping & trade-off analysis  
-- User-centric product thinking  
-- Risk assessment & mitigation planning  
 
 
 
